@@ -1,4 +1,4 @@
-# page-documentation
+# docs
 # My Project
 
 ## Introduction
