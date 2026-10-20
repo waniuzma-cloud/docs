@@ -27,7 +27,7 @@ This project is developed to provide a simple and useful solution for the given 
 
 ## Screenshots
 
-![Project Screenshot](313371_508349709221496_2032054879_n.jpg)
+![Project Screenshot](screenshot.jpg)
 
 ## Conclusion
 # docs
