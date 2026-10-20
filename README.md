@@ -27,7 +27,7 @@ This project is developed to provide a simple and useful solution for the given 
 
 ## Screenshots
 
-![Project Screenshot](40323_100003054000224_251242_816196242_n.jpg)
+![Project Screenshot](‪C:\Users\Uzma\Desktop\beautiful-and-inspiring-picture-detailing-a-bright-hot-air-balloon-over-river-pure-cozy-perfect-for-creatives-moods-stock-image-free-photo.jpeg)
 
 ## Conclusion
 # docs
